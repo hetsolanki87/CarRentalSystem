@@ -1,4 +1,5 @@
-# CarRentalSystem
+# CarRentalSystem java project
+
 The Car Rental System is designed to provide a smooth and efficient car renting experience for users. The process begins with user registration, where the user is required to input personal details to create an account. Once registered, the user can browse through a list of available cars and select a car of their choice based on preferences such as model, type, and availability.
 After selecting a car, the user specifies the number of days they wish to rent the vehicle. The system then calculates the estimated rental cost based on the car type and rental duration.
 Upon return of the car, the system prompts the user to provide the following information:
